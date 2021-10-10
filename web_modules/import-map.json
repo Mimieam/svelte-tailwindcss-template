@@ -1,0 +1,8 @@
+{
+  "imports": {
+    "@fortawesome/free-regular-svg-icons": "./@fortawesome/free-regular-svg-icons.js",
+    "@fortawesome/free-solid-svg-icons": "./@fortawesome/free-solid-svg-icons.js",
+    "svelte-awesome/icons": "./svelte-awesome/icons.js",
+    "svelte/internal": "./svelte/internal.js"
+  }
+}
